@@ -1,0 +1,7 @@
+User Story
+
+Fizzbuzz is originally a game for children to practice division.
+Players count incrementally but if the number is a multiple of 3 the number is replaced by the string "fizz".
+If the number can be divided by 5 it is replaced by "buzz".
+If the number can be divided by 5 and 3 it is replaced by the word "fizzbuzz".
+
